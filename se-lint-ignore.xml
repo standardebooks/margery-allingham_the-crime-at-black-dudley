@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="dedication.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>The dedication has no punctuation.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-26.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Like American articles, French “la” should not be capitalized in a title.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
