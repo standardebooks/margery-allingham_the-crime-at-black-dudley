@@ -38,14 +38,15 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008106611</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">The attendees of a party at a old mansion are threatened by a criminal kingpin.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;George Abbershaw has been invited to a party at the gloomy old English mansion of a friend, along with a few people he knows, a few he doesn’t, and one he is sweet on. A suspicious death means George has to determine who can be trusted and who can’t, including a bespectacled young man named Albert Campion who seems to have shown up at the party uninvited. When things take a decided turn for the worse, George and the rest of the guests have to band together in an effort to extricate themselves from an increasingly perilous situation.&lt;/p&gt;
+			&lt;p&gt;Although only a supporting player here, Albert Campion would be the protagonist of another sixteen novels and over twenty short stories, contributing to &lt;a href="https://standardebooks.org/ebooks/margery-allingham"&gt;Margery Allingham&lt;/a&gt; being considered one of the four “Queens of Crime,” along with &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/dorothy-l-sayers"&gt;Dorothy Sayers&lt;/a&gt;, and Ngaio Marsh.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20191060</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100926005</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Crime_at_Black_Dudley</meta>
